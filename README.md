@@ -1,2 +1,5 @@
 # Computer-Vision
-based on  digital image processing, machine learning
+based on  digital image processing
+
+Exercise -1 
+
